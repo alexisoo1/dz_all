@@ -1,0 +1,6 @@
+json
+sqlite3
+pandas
+requests
+bs4
+lxml
